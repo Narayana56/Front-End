@@ -1,0 +1,22 @@
+*  {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.login{
+    color: aliceblue;
+    width: 300px;
+    height: 200px;
+    background-image: url(abc.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 100px;
+}
+.middle{
+    margin: auto;
+    width: 300px;
+}
